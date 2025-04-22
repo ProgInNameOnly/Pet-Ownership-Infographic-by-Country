@@ -5,7 +5,7 @@ import shutil
 # Configuration
 API_KEY = "YOUR_API"  # Replace with your Pexels API key
 ANIMALS = ["cat", "dog", "fish", "bird"]
-OUTPUT_DIR = r"C:\Users\tdent\Desktop\Plotly_Figure_Friday\Week 16"
+OUTPUT_DIR = r"YOUR_DIRECTORY"
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
